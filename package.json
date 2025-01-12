@@ -1,0 +1,24 @@
+{
+  "name": "tut2024",
+  "version": "1.0.0",
+  "description": "nodejs tut",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarangbainalwar/NodeJS-2024.git"
+  },
+  "author": "sarang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarangbainalwar/NodeJS-2024/issues"
+  },
+  "homepage": "https://github.com/sarangbainalwar/NodeJS-2024#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
+}
